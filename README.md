@@ -26,7 +26,7 @@ Most scripts should work, but please use them responsibly and at your own risk.
    git clone https://github.com/Kai-Myles/Script-Vault.git
    ```
 2. Open the folder and choose a script  
-3. Load it into your preferred Roblox exploit tool (e.g., Synapse X, KRNL, Fluxus, etc.)
+3. Load it into your preferred Roblox exploit tool (e.g., ~~Synapse X~~, KRNL, Fluxus, Xeno, etc.)
 
 ---
 
