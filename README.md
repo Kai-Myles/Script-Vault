@@ -23,7 +23,7 @@ Most scripts should work, but please use them responsibly and at your own risk.
 
 1. Clone the repository or download it as a ZIP:
    ```bash
-   git clone https://github.com/YourUsername/ScriptVault.git
+   git clone https://github.com/Kai-Myles/Script-Vault.git
    ```
 2. Open the folder and choose a script  
 3. Load it into your preferred Roblox exploit tool (e.g., Synapse X, KRNL, Fluxus, etc.)
@@ -60,7 +60,7 @@ By using anything in this repository, you acknowledge that:
 
 ## 📬 Contact
 
-If you have suggestions or feedback, feel free to open an issue or contact me directly.
+If you have suggestions or feedback, feel free to open an issue or contact me directly via discord at @kai1097
 
 ---
 
