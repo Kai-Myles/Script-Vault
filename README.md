@@ -60,7 +60,7 @@ By using anything in this repository, you acknowledge that:
 
 ## 📬 Contact
 
-If you have suggestions or feedback, feel free to open an issue or contact me directly via discord at @kai1097
+If you have suggestions or feedback, feel free to open an issue or contact me directly via discord at @kai1097 or ask for help in our server - https://discord.gg/xw9nb3hwVG
 
 ---
 
